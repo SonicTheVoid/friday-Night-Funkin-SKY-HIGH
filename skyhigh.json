@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"SkyHigh",
+			"bf",
+			[
+				0,
+				255,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "skyhigh",
+	"difficulties": "start",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "i love the songs of elektronomia :D",
+	"weekName": "Nostalgic",
+	"freeplayColor": [
+		0,
+		255,
+		0
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
